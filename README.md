@@ -7,3 +7,21 @@ to direct users to different pages or websites.
 
 To use this Linktree, simply download or clone the repository and open the `index.html` file in your web browser. 
 You can then click on the links to be directed to the corresponding pages or websites.
+
+## Features
+
+- Simple and easy-to-use Linktree
+- Customizable styles using CSS
+- Can be easily modified to add or remove links
+
+## Requirements
+
+No requirements are needed to use this Linktree.
+
+## How to Contribute
+
+To contribute to this project, simply create a fork of the repository and make any changes or improvements you see fit. Once you have made your changes, create a pull request and I will review it as soon as possible.
+
+## License
+
+This project is licensed under the MIT License.
