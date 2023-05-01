@@ -13,6 +13,11 @@ You can then click on the links to be directed to the corresponding pages or web
 - Simple and easy-to-use Linktree
 - Customizable styles using CSS
 - Can be easily modified to add or remove links
+-Can be resused for multiple purposes
+
+#Tech Stack 
+
+This linktree uses basic html and css to function. 
 
 ## Requirements
 
